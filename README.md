@@ -1,8 +1,8 @@
 # PyData Manipal Devsprints Jan 2020
 
-### Date:   **19th January, 2020**
-### Venue:  **AB5-406**
-### Time:   **9AM - 5PM**
+### Date:   TBD
+### Venue: TBD
+### Time:   TBD
 
 Prerequisites: Please come with Git already installed.
 
@@ -15,13 +15,7 @@ https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guid
 https://rogerdudler.github.io/git-guide/
 
 ## Agenda
-|        Time       |    Event               |
-|---------------|-------------------|
-|9am - 9:45am  |Git basics         |
-|10am - 11am  | Session by Aman Sharma    |
-|11am - 12pm  |Choose an org, join mailing lists etc|
-|12pm - 1pm |   Lunch   |
-|1pm - 5pm  |   Coding! |
+TBD
 
 ## Suggested Organizations/Projects (in no particular order):
 

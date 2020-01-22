@@ -1,6 +1,6 @@
 # PyData Manipal Devsprints Feb 2020
 
-### Date: Sunday, 2nd Feb, 2020
+### Date: Sunday, 2nd Feb
 ### Venue: NLH 104
 ### Time:   9am - 5pm
 

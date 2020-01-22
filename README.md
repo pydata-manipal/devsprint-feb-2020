@@ -1,8 +1,8 @@
-# PyData Manipal Devsprints Jan 2020
+# PyData Manipal Devsprints Feb 2020
 
-### Date:   TBD
-### Venue: TBD
-### Time:   TBD
+### Date: Sunday, 2nd Feb, 2020
+### Venue: NLH 104
+### Time:   9am - 5pm
 
 Prerequisites: Please come with Git already installed.
 

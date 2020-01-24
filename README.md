@@ -1,21 +1,31 @@
+<a href="https://meetup.com/pydata-manipal"><img src="https://secure.meetupstatic.com/photos/event/3/f/7/3/600_488416243.jpeg" alt="PyData Manipal" width="300"/></a>
+
+Sponsored by [DeepSource.io](https://deepsource.io)
+
+<a href="https://deepsource.io"> <img src="https://imgur.com/6sThtFl.png" alt="PyData Manipal" width="300"/> </a>
+
+We will be distributing swag (stickers) from [DeepSource.io](https://deepsource.io) to all attendees.  
+**The attendees that raise a PR by the end of the day will receive a T-shirt from DeepSource!**
+
 # PyData Manipal Devsprints Feb 2020
 
 ### Date: Sunday, 2nd Feb
 ### Venue: NLH 104
 ### Time:   9am - 5pm
 
-Prerequisites: Please come with Git already installed.
+What is a DevSprint?  
+Development Sprints (DevSprint) is a day of intensive learning and development on an open source project of your choice, in a team environment.
 
 Has contributing to Open source projects been one of those plans for you that just remained a plan? Or did you try contributing to an Open source project but got lost somewhere in the middle due to lack of guidance? Well, Devsprints are here to save the day! During Devsprints, Mentors/Contributors of Open source projects guide participants through everything, from generating the development build to submitting a patch for a bug or improve the project's documentation.
 
-We will also be conducting a brief workshop on Git.
-Links we will refer to:
-https://www.digitalocean.com/community/tutorials/how-to-use-git-a-reference-guide
-		
-https://rogerdudler.github.io/git-guide/
-
 ## Agenda
-TBD
+|        Time       |    Event               |
+|---------------|-------------------|
+|9am - 10am  |Introduction to Git and GitHub         |
+|10am - 11am  | Session on Google Summer of Code    |
+|11am - 12pm  |Choose an org, join mailing lists and get the development build ready|
+|12pm - 1pm |   Lunch   |
+|1pm - 5pm  |   Coding! |
 
 ## Suggested Organizations/Projects (in no particular order):
 

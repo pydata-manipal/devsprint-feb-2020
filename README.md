@@ -53,3 +53,4 @@ Special mention: [Projects under  NumFOCUS](https://github.com/numfocus/gsoc) (s
 |GNU Mailman    |https://list.org   |https://mailman.readthedocs.io/en/latest/src/mailman/docs/contribute.html|
 |mypy   |https://github.com/python/mypy |   https://github.com/python/mypy/blob/master/CONTRIBUTING.md|
 |EinsteinPy |https://einsteinpy.org/    |https://github.com/einsteinpy/einsteinpy/blob/master/CONTRIBUTING.rst  |
+|Tensorflow Addons |https://github.com/tensorflow/addons/ |https://github.com/tensorflow/addons/blob/master/CONTRIBUTING.md  |

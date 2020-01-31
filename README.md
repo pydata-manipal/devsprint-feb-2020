@@ -54,3 +54,4 @@ Special mention: [Projects under  NumFOCUS](https://github.com/numfocus/gsoc) (s
 |mypy   |https://github.com/python/mypy |   https://github.com/python/mypy/blob/master/CONTRIBUTING.md|
 |EinsteinPy |https://einsteinpy.org/    |https://github.com/einsteinpy/einsteinpy/blob/master/CONTRIBUTING.rst  |
 |Tensorflow Addons |https://github.com/tensorflow/addons/ |https://github.com/tensorflow/addons/blob/master/CONTRIBUTING.md  |
+|pip  | https://github.com/pypa/pip |https://pip.pypa.io/en/latest/development/getting-started/  |
